@@ -50,7 +50,7 @@ function draw() {
   translate(width / 2, height / 6); // Di chuyển đến giữa phía trên màn hình
   textAlign(CENTER, CENTER);
   textSize(30);            
-  textFont('Candal');
+  textFont('Oswald');
   noFill();
   
   // Dòng chữ chính
