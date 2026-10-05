@@ -11,7 +11,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
   fireworkSound.playMode('sustain'); 
-  fireworkSound.setVolume(0.3); // Giảm âm lượng xuống 30%
+  fireworkSound.setVolume(0.1); // Giảm âm lượng xuống 30%
 }
 
 function windowResized() {
